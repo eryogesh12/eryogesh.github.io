@@ -1,0 +1,52 @@
+@font-face{
+	font-family: catamaran;
+	font-weight: 400;
+	src: url('../fonts/Catamaran-Regular.ttf');
+}
+@font-face{
+	font-family: catamaran;
+	font-weight: 700;
+	src: url('../fonts/Catamaran-Bold.ttf');
+}
+@font-face{
+	font-family: catamaran;
+	font-weight: 900;
+	src: url('../fonts/Catamaran-Black.ttf');
+}
+
+body{ font-family: Catamaran; }
+
+.header-top{background-color: rgba(0,0,0,.7); padding: 27px; z-index: 8; }
+.fixed{position: fixed; top: 0; right: 0; left: 0;} 
+.start{color: #fff;color: #fff; font-size: 15px; font-weight: 400;}
+.sign-up{color: #fff; font-size: 15px; font-weight: 400; float: right; }
+.login{color: #fff; font-size: 15px; font-weight: 400; float: right; margin-right: 8px;}
+
+
+.banner{ background: url('../img/02.jpg'); background-repeat: no-repeat; background-size: cover; }
+.wonder{color: #fff; text-align: center; font-family: Catamaran;
+         font-weight: 800!important; font-size: 110px; padding-top: 150px; }
+.rock{color: #fff; text-align: center;font-family: Catamaran;
+    font-weight: 800!important; font-size: 69px;
+    padding-top: 10px;}
+ .banner-btn{    background-color: #ee0979;
+    border-color: #ee0979;
+    color: #fff;
+    padding: 20px 36px 21px 36px;
+    border-radius: 42px;
+    letter-spacing: 4.1px;
+    font-size: 15px;
+    border: 2px solid#ee0979;}
+    .center{padding: 20px 0px 120px 0px; text-align: center;}
+
+
+    .grid{padding-top: 80px;}
+    .cata{  font-family: Catamaran; font-size: 70px; font-weight: 800; }
+    .p15{font-size: 18px;}
+    .pd25{padding: 25px;}
+    .pdl20{padding-left: 20px; position: relative; margin-bottom: 27px;}
+    .vailen{font-family: Catamaran; font-size: 70px; font-weight: 800; padding-top: 85px;}
+    .img-fluid{max-width: 80%;}
+    .footer{ text-align: center; background-color: #000; padding: 27px; color: #fff; }
+    .pad28{ padding-top: 30px; }
+    .cata1{  font-family: Catamaran; font-size: 70px; font-weight: 800; padding-top: 60px; }
